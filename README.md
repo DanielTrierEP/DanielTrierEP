@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Daniel Trier</h1>
 <p align="center">
-  <b>Vibe Coder from Berlin</b> · Python enjoyer · Currently leveling up in JavaScript & React
+  <b>Vibe Coder from Berlin</b> · Python enjoyer · Currently leveling up in AI
 </p>
 
 <p align="center">
