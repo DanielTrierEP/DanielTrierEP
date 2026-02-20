@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I love cooking Italian Pesto**
 
-<h3 align="left">Connect with me:</h3>a
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/daniel-trier-244862226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-trier-244862226" height="30" width="40" /></a>
 <a href="https://instagram.com/daniel_develops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_develops" height="30" width="40" /></a>
