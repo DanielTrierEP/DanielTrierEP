@@ -1,29 +1,69 @@
 <h1 align="center">Hi 👋, I'm Daniel Trier</h1>
-<h3 align="center">A passionate Vibe Coder from Berlin</h3>
-<img align="right" alt="Coding" width="400" src='https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif' />
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=danieltrier&label=Profile%20views&color=0e75b6&style=flat" alt="danieltrier" /> </p>
-
-- 🔭 I’m currently working on Vibe Coding
-
-- 🌱 I’m currently learning **JavaScript, React**
-
-- 💬 Ask me about **Python**
-
-- 📫 How to reach me **daniel.trier@code.berlin**
-
-- ⚡ Fun fact **I love cooking Italian Pesto**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/daniel-trier-244862226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/daniel-trier-244862226" height="30" width="40" /></a>
-<a href="https://instagram.com/daniel_develops" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="daniel_develops" height="30" width="40" /></a>
+<p align="center">
+  <b>Vibe Coder from Berlin</b> · Python enjoyer · Currently leveling up in JavaScript & React
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:daniel.trier@code.berlin">📫 daniel.trier@code.berlin</a> ·
+  <a href="https://www.linkedin.com/in/daniel-trier/">LinkedIn</a> ·
+  <a href="https://www.instagram.com/daniel_develops/">Instagram</a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=danieltrier&show_icons=true&locale=en&layout=compact" alt="danieltrier" /></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=danieltrier&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=danieltrier&show_icons=true&locale=en" alt="danieltrier" /></p>
+<img align="right" alt="Coding animation" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=danieltrier&" alt="danieltrier" /></p>
+## About me
+
+- 🔭 I’m currently working on **Vibe Coding**
+- 🌱 I’m currently learning **JavaScript, React**
+- 💬 Ask me about **Python**
+- ⚡ Fun fact: I love cooking **Italian pesto** 🌿
+
+## Connect with me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/daniel-trier/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Daniel%20Trier-0A66C2?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/daniel_develops/">
+    <img alt="Instagram" src="https://img.shields.io/badge/Instagram-@daniel__develops-E4405F?logo=instagram&logoColor=white" />
+  </a>
+</p>
+
+## Languages & Tools
+
+<p align="left">
+  <a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" /></a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript" /></a>
+  <a href="https://react.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React" /></a>
+  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" /></a>
+  <a href="https://flask.palletsprojects.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40" alt="Flask" /></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.linux.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" /></a>
+  <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" height="40" alt="SQLite" /></a>
+  <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma" /></a>
+</p>
+
+## GitHub stats
+
+<!--
+Note:
+- github-readme-stats.vercel.app has been intermittently down/paused.
+  If these cards break again, the most reliable fix is self-hosting or using their GitHub Actions workflow.
+-->
+
+<p>
+  <img height="165" alt="Daniel's GitHub stats"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=danieltrier&show_icons=true&theme=transparent&hide_border=true" />
+  <img height="165" alt="Top languages"
+       src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=danieltrier&layout=compact&theme=transparent&hide_border=true" />
+</p>
+
+<p>
+  <img alt="GitHub streak"
+       src="https://streak-stats.demolab.com?user=danieltrier&theme=transparent&hide_border=true" />
+</p>
